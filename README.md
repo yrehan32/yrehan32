@@ -1,7 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @yrehan32
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently learning Golang
+- 🤝 I'm open to collaborating on freelance projects
+- 🌱 I’m currently learning Golang and NodeJS
 
 
 ## 🌐 Socials:
